@@ -24,7 +24,7 @@
 
 ## Data Engineering Projects
 <div align="center">
-  <table>
+  <table cellspacing="20">
     <tr>
       <td>
         <h3>Project Name 1</h3>
@@ -44,7 +44,7 @@
 
 ## MLOps Projects
 <div align="center">
-  <table>
+  <table cellspacing="20">
     <tr>
       <td>
         <h3>Project Name 3</h3>
@@ -64,7 +64,7 @@
 
 ## DevOps Projects
 <div align="center">
-  <table>
+  <table cellspacing="20">
     <tr>
       <td>
         <h3>Project Name 5</h3>
