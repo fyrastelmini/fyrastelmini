@@ -54,6 +54,7 @@ FastAPI application with two versions (web application and barebones API). Handl
 **Technologies used:** FastAPI, Docker Compose, Git CI/CD
 
 ---
+
 # Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" style="margin-right: 20px;" />
