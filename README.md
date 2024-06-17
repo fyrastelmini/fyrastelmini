@@ -36,7 +36,7 @@ A flask web application that scrapes relevant information from Linkedin job post
 ## ML Projects
 ### Text Sentiment Analysis
 
-[![Linkedin job application helper](https://img.shields.io/badge/GitHub-TunABSA-green)](https://github.com/fyrastelmini/TunABSA)
+[![Linkedin job application helper](https://img.shields.io/badge/GitHub-TunABSA-orange)](https://github.com/fyrastelmini/TunABSA)
 
 Sentiment analysis with token-level features on an under-represented dialect
 
