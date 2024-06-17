@@ -24,13 +24,15 @@
 
 # Projects
 ## Data Engineering Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>Linkedin job application helper</h3>
-    <a href="https://github.com/fyrastelmini/linkedin_helper">GitHub Link</a>
-    <p>A flask web application that scrapes relevant information from Linkedin job posts. Can be used as an assistant to track job applications.</p>
-    <p><strong>Technologies used:</strong> Python, SQL, Kafka, DBT, Airflow</p>
-  </div>
+### Linkedin job application helper
+
+[![Linkedin job application helper](https://img.shields.io/badge/GitHub-Linkedin_job_application_helper-green)](https://github.com/fyrastelmini/linkedin_helper)
+
+A flask web application that scrapes relevant information from Linkedin job posts. Can be used as an assistant to track job applications.
+
+**Technologies used:** Python, SQL, Kafka, DBT, Airflow
+
+---
 
 ## MLOps Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
