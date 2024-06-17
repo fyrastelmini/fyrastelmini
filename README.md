@@ -55,6 +55,7 @@
     <p>REST API calculator of RPN notation</p>
     <p><strong>Technologies used:</strong> FAstAPI, Docker Compose, Git CI/CD</p>
   </div>
+ </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" style="margin-right: 20px;" />
