@@ -26,7 +26,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
     <h3>Linkedin job application helper</h3>
-    <a href="[https://github.com/fyrastelmini/linkedin_helper]">GitHub Link</a>
+    <a href="https://github.com/fyrastelmini/linkedin_helper">GitHub Link</a>
     <p>A flask web application that scrapes relevant information from Linkedin job posts. Can be used as an assistant to track job applications.</p>
     <p><strong>Technologies used:</strong> Python, SQL, Kafka, DBT, Airflow</p>
   </div>
@@ -51,7 +51,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
     <h3>Project Name 5</h3>
-    <a href="[https://github.com/fyrastelmini/NPI_calc_API]">GitHub Link</a>
+    <a href="https://github.com/fyrastelmini/NPI_calc_API">GitHub Link</a>
     <p>REST API calculator of RPN notation</p>
     <p><strong>Technologies used:</strong> FAstAPI, Docker Compose, Git CI/CD</p>
   </div>
