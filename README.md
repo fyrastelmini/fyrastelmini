@@ -26,13 +26,13 @@
 <div align="center">
   <table cellspacing="20">
     <tr>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 1</h3>
         <a href="https://github.com/fyrastelmini/project1">GitHub Link</a>
         <p>Description of the project goes here.</p>
         <p><strong>Technologies used:</strong> Python, SQL, Apache Spark</p>
       </td>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 2</h3>
         <a href="https://github.com/fyrastelmini/project2">GitHub Link</a>
         <p>Description of the project goes here.</p>
@@ -46,13 +46,13 @@
 <div align="center">
   <table cellspacing="20">
     <tr>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 3</h3>
         <a href="https://github.com/fyrastelmini/project3">GitHub Link</a>
         <p>Description of the project goes here.</p>
         <p><strong>Technologies used:</strong> Python, TensorFlow, Kubernetes</p>
       </td>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 4</h3>
         <a href="https://github.com/fyrastelmini/project4">GitHub Link</a>
         <p>Description of the project goes here.</p>
@@ -66,13 +66,13 @@
 <div align="center">
   <table cellspacing="20">
     <tr>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 5</h3>
         <a href="https://github.com/fyrastelmini/project5">GitHub Link</a>
         <p>Description of the project goes here.</p>
         <p><strong>Technologies used:</strong> Ansible, Jenkins, AWS</p>
       </td>
-      <td>
+      <td style="padding: 20px;">
         <h3>Project Name 6</h3>
         <a href="https://github.com/fyrastelmini/project6">GitHub Link</a>
         <p>Description of the project goes here.</p>
