@@ -25,18 +25,11 @@
 ## Data Engineering Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>Project Name 1</h3>
-    <a href="https://github.com/fyrastelmini/project1">GitHub Link</a>
-    <p>Description of the project goes here.</p>
-    <p><strong>Technologies used:</strong> Python, SQL, Apache Spark</p>
+    <h3>Linkedin job application helper</h3>
+    <a href="[https://github.com/fyrastelmini/project1](https://github.com/fyrastelmini/linkedin_helper)">GitHub Link</a>
+    <p>A flask web application that scrapes relevant information from Linkedin job posts. Can be used as an assistant to track job applications.</p>
+    <p><strong>Technologies used:</strong> Python, SQL, Kafka, DBT, Airflow</p>
   </div>
-  <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>Project Name 2</h3>
-    <a href="https://github.com/fyrastelmini/project2">GitHub Link</a>
-    <p>Description of the project goes here.</p>
-    <p><strong>Technologies used:</strong> Kafka, AWS, Docker</p>
-  </div>
-</div>
 
 ## MLOps Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
@@ -58,17 +51,10 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
     <h3>Project Name 5</h3>
-    <a href="https://github.com/fyrastelmini/project5">GitHub Link</a>
+    <a>[GitHub Link](https://github.com/fyrastelmini/NPI_calc_API)</a>
     <p>Description of the project goes here.</p>
     <p><strong>Technologies used:</strong> Ansible, Jenkins, AWS</p>
   </div>
-  <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>Project Name 6</h3>
-    <a href="https://github.com/fyrastelmini/project6">GitHub Link</a>
-    <p>Description of the project goes here.</p>
-    <p><strong>Technologies used:</strong> Terraform, Docker, GitLab CI/CD</p>
-  </div>
-</div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" style="margin-right: 20px;" />
