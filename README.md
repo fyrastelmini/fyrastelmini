@@ -34,21 +34,16 @@ A flask web application that scrapes relevant information from Linkedin job post
 
 ---
 
-## MLOps Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>Project Name 3</h3>
-    <a href="https://github.com/fyrastelmini/project3">GitHub Link</a>
-    <p>Description of the project goes here.</p>
-    <p><strong>Technologies used:</strong> Python, TensorFlow, Kubernetes</p>
-  </div>
-  <div style="flex: 0 0 45%; padding: 20px; border: 3px solid #4a4a4a; border-radius: 10px;">
-    <h3>Project Name 4</h3>
-    <a href="https://github.com/fyrastelmini/project4">GitHub Link</a>
-    <p>Description of the project goes here.</p>
-    <p><strong>Technologies used:</strong> PyTorch, Docker, MLflow</p>
-  </div>
-</div>
+## ML Projects
+### Text Sentiment Analysis
+
+[![Linkedin job application helper](https://img.shields.io/badge/GitHub-TunABSA-green)](https://github.com/fyrastelmini/TunABSA)
+
+Sentiment analysis with token-level features on an under-represented dialect
+
+**Technologies used:** Python, Tensorflow, Numpy, Transformers
+
+---
 
 ## DevOps Projects
 
@@ -58,6 +53,7 @@ FastAPI application with two versions (web application and barebones API). Handl
 
 **Technologies used:** FastAPI, Docker Compose, Git CI/CD
 
+---
 # Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" style="margin-right: 20px;" />
