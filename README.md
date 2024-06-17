@@ -70,8 +70,6 @@
   </div>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyrastelmini&show_icons=true&locale=en&layout=compact" alt="fyrastelmini" /></p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fyrastelmini&show_icons=true&locale=en" alt="fyrastelmini" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" /></p>
