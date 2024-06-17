@@ -51,14 +51,12 @@ A flask web application that scrapes relevant information from Linkedin job post
 </div>
 
 ## DevOps Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>REST API calculator of RPN notation</h3>
-    <a href="https://github.com/fyrastelmini/NPI_calc_API">GitHub Link</a>
-    <p>FastAPI application with two versions (web application and barebones API). Handles database storage, view and download.</p>
-    <p><strong>Technologies used:</strong> FastAPI, Docker Compose, Git CI/CD</p>
-  </div>
- </div>
+
+[![REST API calculator of RPN notation](https://img.shields.io/badge/GitHub-REST_API_calculator_of_RPN_notation-blue)](https://github.com/fyrastelmini/NPI_calc_API)
+
+FastAPI application with two versions (web application and barebones API). Handles database storage, view, and download.
+
+**Technologies used:** FastAPI, Docker Compose, Git CI/CD
 
 # Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
