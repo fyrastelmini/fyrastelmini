@@ -50,7 +50,7 @@
 ## DevOps Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
   <div style="flex: 0 0 45%; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
-    <h3>REST API calculator of RPN notation<</h3>
+    <h3>REST API calculator of RPN notation</h3>
     <a href="https://github.com/fyrastelmini/NPI_calc_API">GitHub Link</a>
     <p>FastAPI application with two versions (web application and barebones API). Handles database storage, view and download.</p>
     <p><strong>Technologies used:</strong> FastAPI, Docker Compose, Git CI/CD</p>
