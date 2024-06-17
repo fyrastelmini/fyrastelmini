@@ -70,6 +70,7 @@
   </div>
 </div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fyrastelmini&show_icons=true&locale=en" alt="fyrastelmini" />
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyrastelmini&" alt="fyrastelmini" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fyrastelmini&show_icons=true&locale=en" alt="fyrastelmini" />
+</div>
