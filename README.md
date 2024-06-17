@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyrastelmini&label=Profile%20views&color=0e75b6&style=flat" alt="fyrastelmini" /> </p>
 
-- 🔭 I’m currently working on [Linkedin job application helper](github.com/fyrastelmini/linkedin_helper)
+- 🔭 I’m currently working on [Linkedin job application helper](https://github.com/fyrastelmini/linkedin_helper)
 
 - 🌱 I’m currently learning **Data Engineering and MLops**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fyras.telmini@gmail.com**
 
-- 📄 Know about my experiences [charming-mouse.static.domains/](charming-mouse.static.domains/)
+- 📄 Know about my experiences [CV link](https://charming-mouse.static.domains/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
