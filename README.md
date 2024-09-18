@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fyras.telmini@gmail.com**
 
-- 📄 Know about my experiences [CV link](https://github.com/fyrastelmini/fyrastelmini/blob/main/CV%20english%202024%20-.pdf)
+- 📄 Know about my experiences [CV link](https://github.com/fyrastelmini/fyrastelmini/blob/main/Fyras%20Telmini%20EN%20DS.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
